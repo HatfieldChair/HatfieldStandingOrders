@@ -782,19 +782,18 @@ Facilities Officer
 
 ## Standing Committees
 
-### Independence Committee
+### Board of Trustees
 
-  1. The Independence Committee will be comprised of:
-  2. The Senior Man (chair pro tempore).
-  3. Charity Framework Officer (Once elected, secretary to the committee).
-  4. Student Trustee (Once elected).
-  5. Chair of the Board of Trustees (Once appointed, chair).
-  6. The membership may be changed at the committee's discretion. The committee's purpose will be to oversee the JCR becoming an independent charity.
-  7. The committee may direct officers, in particular the Charity Framework Officer and Senior Man, to make preparations as it sees fit for the JCRs transition to charitable status.
-  8. The initial work will include but not be limited to, appointing the Chair of the board of Trustees, appointing members of the board with relevant (legal, financial, etc.) experience, and creating a working timetable for the transition.
-  9. The chair of the committee will have a casting vote.
-  10. The committee may report to OGMs at its discretion.
-  11. The Independence committee will, on the 1st August 2021, become the Shadow Board of Trustees. It will then additionally fulfil the role which the trustee board of the JCR as an independent charity would, as far as is possible within the DSO framework. The JCR shall be bound by its decisions as far as is possible within the DSO framework and University regulations.
+  1.The Board of Trustees will be comprised of:
+  2. The Senior Man (chair pro tempore)
+  3. Compliance and Governance Officer (secretary to the committee)
+  4. Student Trustee.
+  5. Chair of the Board of Trustees (chair).
+  6. The membership may be changed at the board’s discretion. The board’s purpose is to oversee the JCR as an independent charity.
+  7. The committee may direct officers, in particular the Compliance and Governance Officer and Senior Man, to maintain the JCR’s status as an independent charity. 
+  8. The chair of the committee will have a casting vote.
+  9. The Board may report to OGMs at its discretion.
+
 
 ### JCR Treasury Committee
 
@@ -802,7 +801,7 @@ Facilities Officer
   2. The JCR Treasury Committee must meet at least once a term within the first three weeks of each term.
   3. The JCR Treasury Committee will consist of the Senior Man, Treasurer and Sports & Societies Officer.
   4. The Chair of the Committee must extend invitations to the Finance Officer.
-  5. The JCR Treasury Committee must act in accordance with all statutes of the University, the DSO framework and any regulations imposed by College.
+  5. The JCR Treasury Committee must act in accordance with all statutes of the University, applicable charities laws/regulations and any regulations imposed by College.
   6. Decisions of the JCR Treasury Committee will be confidential until the JCR Sports and Societies Officer informs the applicants of the outcome of their application.
   7. The Sports and Societies Officer will be Chair of the JCR Treasury Committee.
 
@@ -817,7 +816,7 @@ Facilities Officer
 
   1. The Governance Committee will review the Standing Orders and Governance of the JCR to ensure they remain up to date and efficient.
   2. The Governance Committee must meet at least once per term.
-  3. The Governance Committee will consist of the Senior Man, Vice-President (Discipline), Communities Officer, JCR Secretary, JCR Chair and the Assistant Students' Union Representatives.
+  3. The Governance Committee will consist of the Senior Man, Vice President (Discipline), Compliance and Governance Officer, JCR Secretary, JCR Chair.
   4. The JCR Chair will be Chair of the Governance Committee.
   5. The Governance Committee will assist the JCR in reconciling the text of amendments to the Standing Orders with the drafting principles of this document, and advise where necessary on how to draft and  submit motions for General Meetings.
   6. The Executive Committee must prepare a report for the Governance Committee prior to the end of their term of office highlighting areas which in their experience deserve particular attention in the coming year.
@@ -892,7 +891,7 @@ Facilities Officer
 
 ## Article 7: Dispute Resolution
 
-  1. Any Ordinary Member (the Complainant) who is dissatisfied with the performance of an Officer or body of the JCR or wishes to make a complaint under the Framework for a Durham Student Organisation, College Regulations or these Standing orders must first raise the grievance with the relevant Officer or body of the JCR in Writing, or in an appropriate email.
+  1. Any Ordinary Member (the Complainant) who is dissatisfied with the performance of an Officer or body of the JCR or wishes to make a complaint under College Regulations or these Standing Orders must first raise the grievance with the relevant Officer or body of the JCR in Writing, or in an appropriate email.
   2. If the matter is not resolved in discussion with the relevant Officer or body of the JCR, the Complainant may raise the grievance with the Senior Man or the next-most senior Executive Officer the subject of Complaint.
   3. If either the Senior Man or the Complainant feel that the matter has not been adequately dealt with, then the Senior Man and the Complainant must attempt to resolve the matter with an independent mediator appointed by the Master. The decision to accept any resolution will remain entirely with the parties involved.
   4. If the Senior Man or Complainant continue to feel that the matter has not been adequately dealt with, it must be referred to the Master, whose decision in relation to the matter will be binding for all parties.
@@ -1019,12 +1018,13 @@ Facilities Officer
   1. The Student Trustee will be elected during the Epiphany Election Cycle as per the Executive Committee election procedures and requirements laid out in Article 4.
   2. The position will have the same Term as the Executive Committee as laid out in article 4 of these Standing Orders.
   3. Members running for Student Trustee may not be a member of the executive committee or running for any executive committee positions. Any student trustee who falls foul of these conditions whilst in office will be assumed to have resigned.
-  4. The student trustee will be a member of the Independence Committee and its Successor, the Shadow Board of Trustees.
-  5. The Independence Committee or the Shadow Board of Trustees may increase the number of student trustees, and may choose to hold a by-election if the change will take effect before the next set of executive committee elections.
+  4. The student trustee will be a member of the Board of Trustees.
+  5. The Board of Trustees may increase the number of student trustees, and may choose to hold a by-election if the change will take effect before the next set of executive committee elections.
   6. The Student Trustee will provide student governance to the common room separate to the Executive Committee.
-  7. The Student Trustee will work with the Independence Committee/Shadow Board of Trustees to complete the appropriate tasks involved in the journey to independent status.
-  8. The Student Trustee may resign by writing to the chair of Independence Committee/Shadow Board of Trustees.
-  9. In the event of a resignation the procedure for the replacement of executive committee members will be followed with the exception that the chair of the Independence Committee/Shadow Board of Trustees will act as decision maker in deciding whether to hold a by-election.
+  7. The Student Trustee will work with the Board of Trustees to complete the appropriate tasks involved in maintaining the JCR’s independent status.
+  8. The Student Trustee may resign by writing to the chair of the Board of Trustees.
+  9. In the event of a resignation the procedure for the replacement of executive committee members will be followed with the exception that the chair of the Board of Trustees will act as decision maker in deciding whether to hold a by-election.
+
 
 ## Freshers Representative Team
 
@@ -1469,9 +1469,6 @@ _Senior Low-Income and State School Representative(s)_
   4. Environmental reps should consider and consult with the wider student body on more radical approaches to reducing our carbon footprint – for example by considering catering programmes like "Meat Free Monday" as seen at several Oxbridge colleges.
   5. Hatfield executive committee should **publicly declare a Climate Emergency** , outlining the tangible ways in which the common room will seek to reduce our carbon emissions and aim for sustainability in all our actions and decision making. Targets for sustainability should be made public and well-advertised to ensure greater accountability to the student body.
 
-## Appendix 3: Independence Provisions
-
-2.1 Governance Committee can make technical changes to the jcr standing orders to ensure compliance with the constitution of the charitable incorporated organization (CIO) during the Common Room's transition to an independent charity.
 
 ## Extension of Compliance and Governance Officer's Term
 
