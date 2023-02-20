@@ -6,17 +6,18 @@ Adopted by the JCR
 
 09/05/22
 
-Reported to College Advisory Board xx/xx/xx
+Approved by the Board of Trustees
+Xx/xx/xx
 
-Approved by the Master
-
+Reported to the College Master
 Xx/xx/xx
 
 ## Statement of Purpose
 
-i.1    The Junior Common Room of Hatfield College is a Durham Student Organisation and part of the University of Durham. These Standing Orders, in compliance with the Framework for a Durham Student Organisation, will govern the Junior Common Room and its associated members, clubs and societies.
+i.1    The Junior Common Room of Hatfield College is a charitable incorporation organisation and a part of the University of Durham. These Standing Orders will govern the Junior Common Room and its associated members, clubs and societies.
 
-i.2    The Regulations of Hatfield College, the Framework for a Durham Student Organisation, the Statutes of the University of Durham, the Royal Charter of the University of Durham will take precedence over these Standing Orders in the case of any conflict.
+i.2    The Regulations of Hatfield College, the Statutes of the University of Durham, and the Royal Charter of the University of Durham will take precedence over these Standing Orders in the case of any conflict.
+
 
 ## Preamble and Objects
 
@@ -31,6 +32,8 @@ ii.1   The Hatfield College Junior Common Room will exist to further the interes
 7. administering such student facilities provided by the College as may, by agreement with College Council, be placed under its supervision;
 8. recognising and supporting Clubs and Societies of the College in accordance with these objects;
 9. maintaining collegiate spirit and the laudable traditions of the College.
+10.maintaining all reasonable governance standards required to operate correctly and transparently as a charitable incorporated organisation.
+
 
 ii.2   The Junior Common Room will be independent of any religious party or political organisation and will pursue its objectives without regard to race, disability, nationality, creed, gender, class, or sexual orientation.
 
@@ -124,7 +127,7 @@ Compliance and Governance Officer
 
 [Standing Committees 21](#_heading=h.wnyagw)
 
-[Independence Committee 21](#_heading=h.3gnlt4p)
+[Board of Trustees 21](#_heading=h.3gnlt4p)
 
 [JCR Treasury Committee 22](#_heading=h.1vsw3ci)
 
@@ -443,13 +446,13 @@ Compliance and Governance Officer
   6. The Senior Man will work with the Vice President (Discipline) and Secretary to create and implement JCR social media strategy.
   7. The Senior Man will represent the views of the JCR to College Officers.
   8. The Senior Man will liaise with the Hatfield Trust, the Hatfield Association and alumni of the College for the benefit of the JCR.
-  9. The Senior Man will ensure the stipulations of the DSO Framework are adhered to by working with the Governance Support Unit.
+  9. The Senior Man will ensure the stipulations of any applicable charities laws and regulations are adhered to by working with the Governance Support Unit.
   10. The Senior Man will engage with the relevant university staff on issues that affect individual Members of the JCR as a whole.
   11. The Senior Man must attend the following Committees of the JCR: JCR Treasury Committee, Clubs and Societies Meeting and Governance Committee.
   12. The Senior Man must attend the JCR Presidents Committee.
   13. The Senior Man must attend the Students' Union Assembly where it is possible for them to do so.
-  14. The Senior Member will be a member of the Independence Committee and its Successor, the Shadow Board of Trustees.
-  15. The position of Senior Man is paid and sabbatical. The responsibilities of the Senior Man according to the JCR Standing Orders are in addition to those laid out in DSO Annex 1(a) and employment contracts which will take precedence over these Standing Orders in the case of any conflict.
+  14. The Senior Member will be a member of the Board of Trustees
+  15. The position of Senior Man is paid and sabbatical. The responsibilities of the Senior Man according to the JCR Standing Orders are in addition to those laid out in  any applicable employment contract, which will take precedence over these Standing Orders in the case of any conflict. 
 
 ## Vice-President (Discipline)
 
@@ -479,27 +482,27 @@ Compliance and Governance Officer
 ## Treasurer
 
   1. The JCR Treasurer will be responsible for the financial administration and well-being of the JCR
-  2. The JCR Treasurer will be responsible for the regulation and financial oversight of all clubs' and societies' accounts in accordance with the Framework and the noted annexe for a Durham Student Organisation.
+  2. The JCR Treasurer will be responsible for the regulation and financial oversight of all clubs’ and societies’ accounts in accordance with applicable legislation, regulations and Durham University policies. 
   3. The JCR Treasurer will be an additional signatory for finances of the JCR where necessary.
   4. The JCR Treasurer will make recommendations to the JCR regarding subscriptions and levies.
   5. The JCR Treasurer must organise event planning and finance training alongside the Events Officer for the Events Teams and the Senior Freshers' Representatives.
   6. The JCR Treasurer must train and assist the Events Officer with event budgeting and managing the effects of tax, especially VAT.
   7. The JCR Treasurer must hold a number of dedicated drop-in hours every week for the benefit of clubs and societies.
   8. The JCR Treasurer may appoint a team of Assistant Treasurers for assistance with financially related projects with particular focus on regulation of Clubs' and Societies' Accounts.
-  9. The JCR Treasurer must produce budgets and accounts for presentation to the College Advisory Board in accordance with the rules and dates laid down in Annexe 3 of the Framework for Durham Student Organisation.
-  10. The JCR Treasurer must attend the following Committees of the JCR: JCR Treasury Committee and Clubs and Societies Meeting.
+  9. The JCR Treasurer must produce budgets and accounts for presentation to the College Advisory Board in accordance with applicable legislation, regulations and Durham University policies.
+  10. The JCR Treasurer must attend the following Committees of the JCR: JCR Treasury Committee, Clubs and Societies Meetings, Independence Committee and Board Meetings. 
   11. The JCR Treasurer must attend all meetings of the Treasurers' Committee and any training/information seminars regarding accounting.
 
 ## Compliance and Governance Officer
 
   1. The Compliance and Governance Officer will be responsible for, in collaboration with the Senior Man and JCR Chair, the writing/maintaining of the governing document of the JCR and associated standing orders/byelaws/appendices.
   2. The Compliance and Governance Officer will create operational policies, and operating models, for compliance with applicable laws, ensuring best practice and continuity of operations.
-  3. In collaboration with members of the executive committee, the Compliance and Governance Officer will acquire services required by the JCR for independence, including insurance and bank accounts.
-  4. The Compliance and Governance Officer will assist the JCR Treasurer with ensuring the JCR's finances are compliant including but not limited to assisting with VAT/tax deadlines. They will also ensure the JCR is ready to operate financially as a charity including examining the potential for external bookkeeping assistance to be provided to the JCR Treasury.
-  5. The Compliance and Governance Officer will work with the Senior Man to negotiate the JCRs exit from the DSO Framework including partaking in any negotiations required with the University on a Standard Licence Agreement/Memorandum of Understanding.
-  6. The Compliance and Governance Officer will work as directed by the Independence Committee/Shadow Board of Trustees to ensure the JCR is fulfilling/will fulfil its legal obligations as a charity and to ensure that the JCR is on schedule to leave the DSO framework on 1st August 2022.
-  7. The Compliance and Governance Officer will be a member of the Independence Committee and its Successor, the Shadow Board of Trustees.
-  8. TheCompliance and Governance Officer willbetheJCR'slinktotheCharityCommissionandwillensurecompliance with all relevant charity law.
+  3. In collaboration with members of the executive committee, the Compliance and Governance Officer will continue to assist with the procurement and ongoing management of services required by the JCR following its establishment as a charitable incorporated organisation, including in relation to insurance and bank accounts. 
+  4. The Compliance and Governance Officer will assist the JCR Treasurer with ensuring the JCR’s finances are compliant - including (but not limited to) providing assistance with VAT/tax deadlines. In particular, they will also support the JCR in its objective to  continue operating as a charitable incorporated organisation. 
+  5. The Compliance and Governance Officer will work with the Senior Man to support the ongoing embedding and implementation requirements arising out of the JCR’s exit from the DSO Framework, including (but not limited to) partaking in any negotiations required with the University on a Standard Licence Agreement/Memorandum of Understanding. 
+  6. The Compliance and Governance Officer will work as directed by the Board of Trustees to ensure the JCR is fulfilling/will fulfil its legal obligations as a charity. 
+  7. The Compliance and Governance Officer will be a member of the Board of Trustees, Independence Committee and the Global Independence Committee.
+  8. 	The Compliance and Governance Officer will be the JCR’s link to the Charity Commission and will ensure compliance with all relevant charities laws and regulations. 
   9. TheCompliance and Governance Officer isresponsibleforensuringthattheCharityCommissionapprovesSabbatical Officer's wages each year.
   10. The Compliance and Governance Officer will workthroughthecharity'srecordseachyeartoensureGDPRcompliance.
   11. The Compliance and Governance Officer will lookintosponsorshipopportunitiesandviableinvestmentopportunitiesforthecharity reserves.
