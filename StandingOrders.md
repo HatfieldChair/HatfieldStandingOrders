@@ -345,15 +345,15 @@ Compliance and Governance Officer
   1. The Ordinary General Meeting is the second highest decision-making and policy-setting authority of the JCR (After the Board of Trustees).
   2.Motions ratified at an Ordinary General Meeting after being passed at a previous inquorate Ordinary General Meeting are binding unless reversed by subsequent motion or referendum.
   3. The Senior Man must call an Ordinary General Meeting (OGM) at least twice per term.
-  6. Attendance of an Ordinary General Meeting is limited to Members. All Members may speak at an Ordinary General Meeting. Only Ordinary Members may vote in elections or for motions. The Executive Committee may allow any other individual to attend at its discretion. Attendance of all non-executive officers is compulsory.
-  7. Any Ordinary Member may submit a motion to be considered at an Ordinary General Meeting in accordance with the guidelines laid out in the JCR By-Laws and maintained by the JCR Chair. Motions must be passed by two-thirds majority.
-  8. An Ordinary General meeting will consist of one or more of the following:
+  4. Attendance of an Ordinary General Meeting is limited to Members. All Members may speak at an Ordinary General Meeting. Only Ordinary Members may vote in elections or for motions. The Executive Committee may allow any other individual to attend at its discretion. Attendance of all non-executive officers is compulsory.
+  5. Any Ordinary Member may submit a motion to be considered at an Ordinary General Meeting in accordance with the guidelines laid out in the JCR By-Laws and maintained by the JCR Chair. Motions must be passed by two-thirds majority.
+  6. An Ordinary General meeting will consist of one or more of the following:
     1. Executive Officers Reports
     2. Non-Executive Officer Reports
     3. Committee Reports
     4. Ratification of motions passed by a previous, inquorate Ordinary General Meeting or Extraordinary General Meeting
     5. New Motions
-  9. An inquorate meeting may:
+  7. An inquorate meeting may:
     1. Hear Executive Officers' Reports;
     2. Hear Non-Executive Officers' Reports;
     3. Hear Committee Reports;
