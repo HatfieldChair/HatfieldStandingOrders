@@ -315,14 +315,13 @@ Compliance and Governance Officer
 
 ## Article 1: Membership
 
-  1. The JCR consists of Trial Members, Ordinary Members, Honorary Members and LifeMembers.
+  1. The JCR consists of Trial Members, Ordinary Members, Honorary Members and Life Members.
   2. All Members of the JCR may participate in JCR Clubs and Societies and access services provided by the JCR, including the use of JCR facilities. They may also attend General Meetings of the JCR.
 
-## Trial and Ordinary Membership
+## Ordinary Membership
 
-  1. Trial Membership of the JCR is granted to all incoming, full-time undergraduate students of Hatfield College. Trial Members are to be treated as having the same rights and responsibilities as Ordinary Members. Trial Membership is terminable by the Executive Committee on non-payment of the JCR levy.
-  2. Ordinary Membership is granted to all full-time undergraduate students of Hatfield College on payment of the JCR levy and terminates on Graduation or withdrawal from full-time, undergraduate study. The Executive Committee may restore Ordinary Membership to students returning to full-time, undergraduate study after a period of absence at their discretion.
-  3. Ordinary Members may submit motions and vote in General Meetings, Referenda and the elections of Executive Officers.
+  1. Ordinary Membership is granted to all full-time undergraduate students of Hatfield College on payment of the JCR levy and terminates on Graduation or withdrawal from full-time, undergraduate study. The Executive Committee may restore Ordinary Membership to students returning to full-time, undergraduate study after a period of absence at their discretion.
+  2. Ordinary Members may submit motions and vote in General Meetings, Referenda and the elections of Executive Officers.
 
 ## Honorary Membership
 
@@ -334,14 +333,18 @@ Compliance and Governance Officer
   1. The Executive Committee may grant Life Membership to any individual who has at some time possessed Ordinary Membership of the JCR at their discretion.
 
 ## Article 2: Meetings of the Junior Common Room
+  1.  The JCR Chair must publish the agenda for an Ordinary General Meetings, Extraordinary General Meetings, and Annual General Meetings at least forty-eight hours before the meeting via official online and social media platforms and printed publications in at least two public places in College.
+  2. JCR Chair must give notice of an Ordinary General Meeting and an Annual General Meeting to Members at least ten days before the meeting via official online and social media platforms and printed publications in at least two public places in College, one of which should be likely to be visited by Livers-Out.
+      i.  If the deadline for advertising an Ordinary General Meeting falls outside an academic term, printed publications should be posted as soon as is reasonably possible after term resumes.
+  3. Ordinary General Meetings and Extraordinary General Meetings are said to be quorate if 5% or 50 Ordinary Members of the JCR are present, which ever is lower. This wil be determined by the Chair by the number of votes cast.
+      i. Motions passed at a quorate Ordinary General Meetings or Extraordinary General Meeting are binding.
+  4. The JCR Secretary must make minuetes of all General Meetings of the JCR and must make these minuetes available to Ordinary Members online no later than seven days after the meeting. 
 
 ## Ordinary General Meeting
 
-  1. The Ordinary General Meeting is the highest decision-making and policy-setting authority of the JCR.
-  2. An Ordinary General Meeting is quorate if 5% or 50 Ordinary Members of the JCR is present, whichever is lowest, as determined by the Chair by the number of votes cast. Motions passed at a quorate Ordinary General Meeting or ratified at an Ordinary General Meeting after being passed at a previous inquorate Ordinary General Meeting are binding unless reversed by subsequent motion or referendum.
+  1. The Ordinary General Meeting is the second highest decision-making and policy-setting authority of the JCR (After the Board of Trustees).
+  2.Motions ratified at an Ordinary General Meeting after being passed at a previous inquorate Ordinary General Meeting are binding unless reversed by subsequent motion or referendum.
   3. The Senior Man must call an Ordinary General Meeting (OGM) at least twice per term.
-  4. The JCR Chair must give notice of an Ordinary General Meeting to Members at least ten days before the meeting via official online and social media platforms and printed publications in at least two public places in College, one of which should be likely to be visited by Livers-Out. If the deadline for advertising falls outside an academic term, printed publications should be posted as soon as is reasonably possible after term resumes.
-  5. The JCR Chair must publish the agenda for an Ordinary General Meeting at least forty-eight hours before the meeting via official online and social media platforms and printed publications in at least two public places in College.
   6. Attendance of an Ordinary General Meeting is limited to Members. All Members may speak at an Ordinary General Meeting. Only Ordinary Members may vote in elections or for motions. The Executive Committee may allow any other individual to attend at its discretion. Attendance of all non-executive officers is compulsory.
   7. Any Ordinary Member may submit a motion to be considered at an Ordinary General Meeting in accordance with the guidelines laid out in the JCR By-Laws and maintained by the JCR Chair. Motions must be passed by two-thirds majority.
   8. An Ordinary General meeting will consist of one or more of the following:
@@ -357,30 +360,26 @@ Compliance and Governance Officer
     4. Ratify by simple majority vote passed by a previous inquorate Ordinary General Meeting
     5. Pass motions, by two thirds majority vote, subject to ratification by a subsequent Ordinary General Meeting;
     6. Refer, by two thirds majority vote, any decision before it to a referendum
-  10. The JCR Secretary must make minutes of an Ordinary General meeting available to ordinary Members no later than seven days after the meeting.
 
 ## Extraordinary General Meeting
 
   1. The Extraordinary General Meeting carries the decision-making and policy-setting authority of the Ordinary General Meeting for the specific purposes for which it is called.
-  2. An Extraordinary General Meeting is quorate if 5% or 50 Ordinary Members of the JCR is present, whichever is lower, as determined by the JCR Chair by the number of votes cast. Motions passed at a quorate Extraordinary General Meeting are binding unless reversed by subsequent motion or referendum. Motions passed by an inquorate Extraordinary General Meeting are binding immediately as if passed by a quorate meeting, but must be reviewed and ratified at a subsequent Ordinary General Meeting.
+  2. Motions passed by an inquorate Extraordinary General Meeting are binding immediately as if passed by a quorate meeting. However these motions must be reviewed and ratified at a subsequent Ordinary General Meeting.
   3. The Senior Man may call an Emergency General Meeting:
     1. Where they have deemed it necessary;
     2. Where requested to by a majority vote of the Executive Committee;
     3. If they receive a petition signed by no less than fifty Ordinary Members setting out the business to be conducted at the meeting
   4. The Extraordinary General Meeting must take place no less than four, but no more than eight, days after the receipt of a request. If this timeframe is partially or wholly outside of an academic term, the Senior Man may, at their discretion and with regard to the nature of the request, choose to hold the meeting within the window or during the next academic term.
   5. The JCR Chair must give notice of an Extraordinary General Meeting to Members at least three days before the meeting via official online and social media platforms and printed publications in at least two public places in College, one of which should be likely to be visited by Livers-Out. If the deadline for advertising falls outside an academic term, printed publications should be posted as soon as is reasonably possible after term resumes.
-  6. The JCR Chair must publish the agenda for the Extraordinary General Meeting at least forty-eight hours before the meeting via official online and social media platforms and printed publications in at least two public places in College.
   7. Attendance of an Extraordinary General Meeting is limited to Members. All Members may speak at an Extraordinary General Meeting. Only Ordinary Members may vote for motions. The Executive Committee may allow any other individual to attend at its discretion.
-  8. An Extraordinary General Meeting will only be called to consider Emergency Motions proposed by the Senior Man or the Executive Committee, or by any Ordinary Member who has requested an Extraordinary General Meeting in accordance with Section 11(c). Motions should be presented to the JCR in accordance with the guidelines laid out in the JCR By-Laws.
-  9. The JCR Secretary must make minutes of an Extraordinary General Meeting available to Ordinary Members no later than seven days after the meeting.
+  8. An Extraordinary General Meeting will only be called to consider Emergency Motions proposed by the Senior Man or the Executive Committee, or by any Ordinary Member who has requested an Extraordinary General Meeting in accordance with Section 2.2.3. Motions should be presented to the JCR in accordance with the guidelines laid out in the JCR By-Laws.
+
 
 ## Annual General Meeting
 
   1. The Annual General Meeting will be held each year at the end of the seventh week inEpiphany term at a location within the College.
   2. There will be no quorum for the Annual General Meeting as no vote will be conducted.
-  3. The JCR Chair must give notice of the Annual General Meeting to Members at least ten days before the meeting via official online and social media platforms and printed publications in at least two public places in College, one of which should be likely to be visited by Livers-Out.
-  4. The JCR Chair must publish the agenda for the Annual General Meeting at least forty-eight hours before the meeting via official online and social media platforms and printed publications in at least two public places in College.
-  5. Attendance of the Annual General Meeting is limited to Members. Members of the Middle Common Room may be present for the announcement of the new Communities Officer. The Executive Committee may allow any other individual to attend at its discretion.
+  5. Attendance of the Annual General Meeting is limited to Members. The Executive Committee may allow any other individual to attend at its discretion.
   6. The Annual General Meeting will consist of:
     1. Executive Officers' End of Term of Office Reports
     2. Presentation of the JCR Accounts
@@ -892,15 +891,15 @@ Facilities Officer
 ## Article 7: Dispute Resolution
 
   1. Any Ordinary Member (the Complainant) who is dissatisfied with the performance of an Officer or body of the JCR or wishes to make a complaint under College Regulations or these Standing Orders must first raise the grievance with the relevant Officer or body of the JCR in Writing, or in an appropriate email.
-  2. If the matter is not resolved in discussion with the relevant Officer or body of the JCR, the Complainant may raise the grievance with the Senior Man or the next-most senior Executive Officer the subject of Complaint.
-  3. If either the Senior Man or the Complainant feel that the matter has not been adequately dealt with, then the Senior Man and the Complainant must attempt to resolve the matter with an independent mediator appointed by the Master. The decision to accept any resolution will remain entirely with the parties involved.
-  4. If the Senior Man or Complainant continue to feel that the matter has not been adequately dealt with, it must be referred to the Master, whose decision in relation to the matter will be binding for all parties.
+  2. If the matter is not resolved in discussion with the relevant Officer or body of the JCR, the Complainant may raise the grievance with the Senior Man or the next-most senior Executive Officer if the Senior Man is the subject of complaint.
+  3. If either the Senior Man or the Complainant feel that the matter has not been adequately dealt with, then the Senior Man and the Complainant must attempt to resolve the matter with an independent mediator appointed by the Board of Trustees. The decision to accept any resolution will remain entirely with the parties involved.
+  4. If the Senior Man or Complainant continue to feel that the matter has not been adequately dealt with, it must be referred to the Board of Trustees, whose decision in relation to the matter will be binding for all parties.
 
 ## Article 8: Amendment of Standing Orders
 
   1. Any Ordinary Member may submit a motion to amend the Standing Orders at a General Meeting in accordance with the provisions of Article 2 and the JCR By-Laws.
-  2. The Executive Committee may make any necessary alterations to correct typographical errors or reflect changes to the structure of the College, University or Students' Union.
-  3. The JCR Chair must notify the Master, and the Senior Man must notify College Advisory Board, of any amendments passed by the General Meeting or made by the Executive Committee. The Master will have final authority to ratify or reject changes to the Standing Orders.
+  2. The Executive Committee may make any necessary alterations to correct typographical errors or reflect changes to the structure of the College, University, or Students' Union, or the Board of Trustees.
+  3. The Senior Man must notify the Master, the Compliance and Governance Officer must notify the Board of Trustees, and the Senior Man must notify College Advisory Board, of any amendments passed by the General Meeting or made by the Executive Committee. The Board of Trustees will have final authority to ratify or reject changes to the Standing Orders.
 
 # **JCR By-Laws**
 
